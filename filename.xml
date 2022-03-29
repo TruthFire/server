@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<publishers>
+    <publisher>
+        <name>Bloomsburry publishing</name>
+        <country>UK</country>
+        <city>London</city>
+        <founded>1986</founded>
+        <books>
+            <id>0</id>
+            <name>Harry Potter and the Chamber of Secrets</name>
+            <authors>
+                <dob>31-07-1965</dob>
+                <name>Joanne</name>
+                <surename>Rowling</surename>
+            </authors>
+            <category>
+                <name>Fantasy</name>
+                <place>1</place>
+            </category>
+            <circulation>1000000</circulation>
+            <published>1998</published>
+            <rating>
+                <bookRating>4.7</bookRating>
+                <ratedBy>23000</ratedBy>
+            </rating>
+        </books>
+    </publisher>
+    <publisher>
+        <name>Bellantine books</name>
+        <country>USA</country>
+        <city>New York</city>
+        <founded>1952</founded>
+        <books>
+            <id>1</id>
+            <name>Farenheit 451</name>
+            <authors>
+                <dob>22-08-1920</dob>
+                <name>Ray</name>
+                <surename>Bradburry</surename>
+            </authors>
+            <category>
+                <name>Antiutopia</name>
+                <place>2</place>
+            </category>
+            <circulation>10000000</circulation>
+            <published>1953</published>
+            <rating>
+                <bookRating>4.4</bookRating>
+                <ratedBy>19852</ratedBy>
+            </rating>
+        </books>
+    </publisher>
+</publishers>
